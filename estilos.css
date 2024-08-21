@@ -1,0 +1,12 @@
+#Layer1 {
+	position:absolute;
+	width:713px;
+	height:460px;
+	z-index:1;
+	overflow: auto;
+}
+.Estilo1 {font-weight: bold}
+.Estilo2 {font-size: 20px}
+.Estilo7 {font-size: 18px; color: #7C0000; }
+.Estilo8 {font-size: 12px}
+.Estilo9 {font-size: 11px; }

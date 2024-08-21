@@ -1,0 +1,22 @@
+#Layer1 {
+	position:absolute;
+	left:247px;
+	top:209px;
+	width:713px;
+	height:460px;
+	z-index:1;
+	overflow: auto;
+}
+.Estilo1 {font-weight: bold}
+.Estilo2 {font-size: 20px}
+.Te {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.TextoTitulo {
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #7F0000;
+	font-weight: bold;
+}
+.TextoS {font-size: 12px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
